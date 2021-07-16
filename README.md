@@ -2,6 +2,12 @@
 
 The list below will contain cited (and not so cited) papers that can be useful considering NLP tasks
 
+# 2021
+* [Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)
+
+# 2020
+* [ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning](https://arxiv.org/pdf/2002.04326v3.pdf)
+
 # 2018  
 * [Disentangled Representation Learning for Non-Parallel Text Style Transfer](https://arxiv.org/pdf/1808.04339.pdf)  
 * [Multi-Task Learning as Multi-Objective Optimization](https://papers.nips.cc/paper/7334-multi-task-learning-as-multi-objective-optimization.pdf)
@@ -20,3 +26,4 @@ The list below will contain cited (and not so cited) papers that can be useful c
 TODO:
 - [ ] Provide short description of each article  
 - [ ] Make topics lists
+- [ ] List the hottest NLP problems to be soved
